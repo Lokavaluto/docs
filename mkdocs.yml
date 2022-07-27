@@ -1,0 +1,8 @@
+site_name: Documentation Lokavaluto
+site_url: https://docs.lokavaluto.fr
+theme: readthedocs
+nav:
+    - Home: home.md
+markdown_extensions:
+    - toc:
+        permalink: "#"
